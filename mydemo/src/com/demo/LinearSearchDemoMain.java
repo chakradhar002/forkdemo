@@ -1,5 +1,5 @@
 package com.demo;
-
+/* demo test */
  class LinearSearchDemo {
 	int linearSearch(int arr[], int searchkey) {
 
