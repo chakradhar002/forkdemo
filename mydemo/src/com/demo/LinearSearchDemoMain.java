@@ -5,7 +5,7 @@ package com.demo;
 
 		for (int i = 0; i < arr.length; i++) {
 
-			if (arr[i] == searchkey) {
+			if (arr[i] == searchkey)  {
 
 				return i;
 
